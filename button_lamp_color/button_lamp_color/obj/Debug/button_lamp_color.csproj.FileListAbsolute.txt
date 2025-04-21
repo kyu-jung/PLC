@@ -1,0 +1,10 @@
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\bin\Debug\button_lamp_color.exe.config
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\bin\Debug\button_lamp_color.exe
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\bin\Debug\button_lamp_color.pdb
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.Form1.resources
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.exe
+C:\Users\메카트로닉스\source\repos\winform\button_lamp_color\button_lamp_color\obj\Debug\button_lamp_color.pdb
