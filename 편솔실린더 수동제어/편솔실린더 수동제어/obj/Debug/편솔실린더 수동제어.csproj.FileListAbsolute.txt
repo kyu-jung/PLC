@@ -1,0 +1,10 @@
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\bin\Debug\편솔실린더 수동제어.exe.config
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\bin\Debug\편솔실린더 수동제어.exe
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\bin\Debug\편솔실린더 수동제어.pdb
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더 수동제어.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더_수동제어.Form1.resources
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더_수동제어.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더 수동제어.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더 수동제어.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더 수동제어.exe
+C:\Users\메카트로닉스\source\repos\편솔실린더 수동제어\편솔실린더 수동제어\obj\Debug\편솔실린더 수동제어.pdb

@@ -1,0 +1,10 @@
+C:\Users\메카트로닉스\source\repos\0331\0331\bin\Debug\0331.exe.config
+C:\Users\메카트로닉스\source\repos\0331\0331\bin\Debug\0331.exe
+C:\Users\메카트로닉스\source\repos\0331\0331\bin\Debug\0331.pdb
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\0331.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\_0331.Form1.resources
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\_0331.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\0331.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\0331.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\0331.exe
+C:\Users\메카트로닉스\source\repos\0331\0331\obj\Debug\0331.pdb
