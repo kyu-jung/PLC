@@ -1,0 +1,10 @@
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\bin\Debug\0512_2 dc motor.exe.config
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\bin\Debug\0512_2 dc motor.exe
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\bin\Debug\0512_2 dc motor.pdb
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\0512_2 dc motor.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\_0512_2_dc_motor.Form1.resources
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\_0512_2_dc_motor.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\0512_2 dc motor.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\0512_2 dc motor.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\0512_2 dc motor.exe
+C:\Users\메카트로닉스\source\repos\0512_2 dc motor\0512_2 dc motor\obj\Debug\0512_2 dc motor.pdb
