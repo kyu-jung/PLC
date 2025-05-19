@@ -1,0 +1,10 @@
+D:\최규정\PLC\0519_2\0519_2\bin\Debug\0519_2.exe.config
+D:\최규정\PLC\0519_2\0519_2\bin\Debug\0519_2.exe
+D:\최규정\PLC\0519_2\0519_2\bin\Debug\0519_2.pdb
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\0519_2.csproj.AssemblyReference.cache
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\_0519_2.Form1.resources
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\_0519_2.Properties.Resources.resources
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\0519_2.csproj.GenerateResource.cache
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\0519_2.csproj.CoreCompileInputs.cache
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\0519_2.exe
+D:\최규정\PLC\0519_2\0519_2\obj\Debug\0519_2.pdb
