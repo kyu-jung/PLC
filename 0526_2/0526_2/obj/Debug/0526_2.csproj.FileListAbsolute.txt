@@ -1,0 +1,10 @@
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\bin\Debug\0526_2.exe.config
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\bin\Debug\0526_2.exe
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\bin\Debug\0526_2.pdb
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\0526_2.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\_0526_2.Form1.resources
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\_0526_2.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\0526_2.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\0526_2.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\0526_2.exe
+C:\Users\메카트로닉스\source\repos\0526_2\0526_2\obj\Debug\0526_2.pdb
