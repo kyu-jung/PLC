@@ -1,0 +1,10 @@
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\bin\Debug\0602_컨베이어_공작물_이송_시스템.exe.config
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\bin\Debug\0602_컨베이어_공작물_이송_시스템.exe
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\bin\Debug\0602_컨베이어_공작물_이송_시스템.pdb
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\0602_컨베이어_공작물_이송_시스템.csproj.AssemblyReference.cache
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\_0602_컨베이어_공작물_이송_시스템.Form1.resources
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\_0602_컨베이어_공작물_이송_시스템.Properties.Resources.resources
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\0602_컨베이어_공작물_이송_시스템.csproj.GenerateResource.cache
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\0602_컨베이어_공작물_이송_시스템.csproj.CoreCompileInputs.cache
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\0602_컨베이어_공작물_이송_시스템.exe
+D:\최규정\winform\openCV\0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템\obj\Debug\0602_컨베이어_공작물_이송_시스템.pdb

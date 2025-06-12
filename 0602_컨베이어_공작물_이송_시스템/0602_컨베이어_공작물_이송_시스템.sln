@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0602_컨베이어_공작물_이송_시스템", "0602_컨베이어_공작물_이송_시스템\0602_컨베이어_공작물_이송_시스템.csproj", "{47025AB3-E96E-4843-B1C0-4A0994B26798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47025AB3-E96E-4843-B1C0-4A0994B26798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47025AB3-E96E-4843-B1C0-4A0994B26798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47025AB3-E96E-4843-B1C0-4A0994B26798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47025AB3-E96E-4843-B1C0-4A0994B26798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694F6225-B654-4491-AEA5-C5C654D1C144}
+	EndGlobalSection
+EndGlobal

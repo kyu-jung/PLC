@@ -1,0 +1,10 @@
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\bin\Debug\0602_컨베이어_Rank_and_pinion.exe.config
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\bin\Debug\0602_컨베이어_Rank_and_pinion.exe
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\bin\Debug\0602_컨베이어_Rank_and_pinion.pdb
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\0602_컨베이어_Rank_and_pinion.csproj.AssemblyReference.cache
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\_0602_컨베이어_Rank_and_pinion.Form1.resources
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\_0602_컨베이어_Rank_and_pinion.Properties.Resources.resources
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\0602_컨베이어_Rank_and_pinion.csproj.GenerateResource.cache
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\0602_컨베이어_Rank_and_pinion.csproj.CoreCompileInputs.cache
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\0602_컨베이어_Rank_and_pinion.exe
+D:\최규정\0602_컨베이어_Rank_and_pinion\0602_컨베이어_Rank_and_pinion\obj\Debug\0602_컨베이어_Rank_and_pinion.pdb
